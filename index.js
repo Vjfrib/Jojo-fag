@@ -20,3 +20,8 @@ pega a caracteristica do objeto beber agua, ou fazer get, lá do rls, que já t�
 
 fiction.actFast(now);
 ele já pega um método de agir (actFast), do objeto action, que foi importada por rls, do 'readline-sync'
+
+*/
+
+console.log("Gott mit uns");
+
